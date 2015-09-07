@@ -21,6 +21,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Caching](#caching)
   - [Full Page Caching](#full-page-caching)
 - [Htaccess](#htaccess)
+- [Nginx](#nginx)
 - [MySQL](#mysql)
 - [Utils](#utils)
 - [Deployments](#deployments)
@@ -39,16 +40,16 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
   - [Misc](#misc)
 - [Contributing](#contributing)
 
-
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/sunel/awesome-magento/blob/master/CONTRIBUTING.md) for details.
 
-
 ## Essentials
+* [Local Xml](https://github.com/Aproducktion/Magento-local.xml-Template) - A great Start for your Magento Theme's local.xml file
 
 ## Testing
 * [EcomDev PHPUnit](https://github.com/EcomDev/EcomDev_PHPUnit) - Magento PHPUnit Integration.
 * [MageTest BehatMage](https://github.com/MageTest/BehatMage) - Behat for Magento.
+* [MageTest MageSpec](https://github.com/MageTest/MageSpec) - PHPSpec for Magento
 
 ## Command Line
 #### Magento 1.x CLI
@@ -78,7 +79,6 @@ Please see [CONTRIBUTING](https://github.com/sunel/awesome-magento/blob/master/C
 ## Sessions
 * [Cm RedisSession](https://github.com/colinmollenhour/Cm_RedisSession) - Redis-based session handler for Magento with optimistic locking.
 
-
 ## Caching
 * [Guidance Cachebuster](https://github.com/gordonknoppe/magento-cachebuster) - Automatic purging of static assets from HTTP caches.
 * [Cm_Cache_Backend_Redis](https://github.com/colinmollenhour/Cm_Cache_Backend_Redis) - A Zend_Cache backend for Redis with full support for tags.
@@ -93,18 +93,24 @@ Please see [CONTRIBUTING](https://github.com/sunel/awesome-magento/blob/master/C
 ## Htaccess
 * [Magento Htaccess](https://github.com/Creare/magento-htaccess) - A htaccess boilerplate for all Magento Community installations.
 
+## Nginx
+* [Magento Nginx](https://github.com/magenx/nginx-config) - Default Nginx config for Magento.
+
 ## MySQL
 * [Magento MySQL](https://github.com/magenx/magento-mysql) - Magento default mysql settings.
 
 ## Utils
 * [Magento Utils](https://github.com/akira28/magento-utils) - A collection of snippets and scripts to simplify your life as a Magento developer.
 * [Coding Standard](https://github.com/magento-ecg/coding-standard) - Magento Code Sniffer Coding Standard.
-
+* [PHPCS Rules](https://github.com/madedotcom/phpcs-magento-rules) - PHPCS Magento Rules
+* [Magento Tools](https://github.com/jmmastey/magento-tools) - Tools to help work with Magento.
+* [MagentoSnippets for Sublime](https://github.com/MageFront/MagentoSnippets) - Magento Front End Snippets, plugin for Sublime Text.
 
 ## Deployments
 * [Cookbook Magento](https://github.com/yevgenko/cookbook-magento) - Collection of recipes to build app stack for the Magento deployments with Chef.
 * [Chef Magento](https://github.com/inviqa/chef-magento) - Installs and Configures a Magento project with Chef.
 * [Deploy Scripts](https://github.com/AOEpeople/magento-deployscripts) - Scripts used to build/package, deploy and install Magento projects.
+* [MASC-M](https://github.com/magenx/MASC-M) - Automated Server Configuration for Magento.
 
 ## Continuous Integration
 * [EcomDev MageCI](https://github.com/EcomDev/MageCI) - A set of tools to help set up a proper environment for testing magento.
@@ -122,7 +128,7 @@ Please see [CONTRIBUTING](https://github.com/sunel/awesome-magento/blob/master/C
 * [Magento Vagrant Puppet](https://github.com/cmuench/Magento-Vagrant-Puppet) - A Vagrantfile and some puppet scripts for an installation of a magento shop.
 * [Magento Vagrant Puppet Nginx](https://github.com/cmuench/Magento-Vagrant-Puppet-Nginx) - Installs magento and a nginx server.
 * [Jasonevans1 Vagrant](https://github.com/jasonevans1/vagrant-magento) - Another Vagrant project for Magento
-
+* [Amacgregor MageVagrant](https://github.com/amacgregor/MageVagrant) - Vagrant/Chef base box for running Magento.
 
 ## Community Codebases
 #### Magento 1.x Code
@@ -136,7 +142,6 @@ Please see [CONTRIBUTING](https://github.com/sunel/awesome-magento/blob/master/C
 * [Magento Gitignore](https://github.com/webcomm/magento-gitignore) - .gitignore file for Magento-based projects.
 * [Magento Gitignore](https://github.com/github/gitignore/blob/master/Magento.gitignore) - Another .gitignore file for Magento-based projects.
 * [Inchoo Gitignore](http://inchoo.net/magento/programming-magento/git-ignore-gitignore-file-for-magento-project/) - Another .gitignore file for Magento-based projects by inchoo.
-
 
 ## Resources
 * [Magento-Functions](https://github.com/Aproducktion/Magento-Functions) - A Resource of Magento Functions.
