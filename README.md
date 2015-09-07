@@ -97,11 +97,13 @@ Please see [CONTRIBUTING](https://github.com/sunel/awesome-magento/blob/master/C
 
 ## Utils
 * [Magento Utils](https://github.com/akira28/magento-utils) - A collection of snippets and scripts to simplify your life as a Magento developer.
+* [Coding Standard](https://github.com/magento-ecg/coding-standard) - Magento Code Sniffer Coding Standard.
 
 
 ## Deployments
 * [Cookbook Magento](https://github.com/yevgenko/cookbook-magento) - Collection of recipes to build app stack for the Magento deployments with Chef.
 * [Chef Magento](https://github.com/inviqa/chef-magento) - Installs and Configures a Magento project with Chef.
+* [Deploy Scripts](https://github.com/AOEpeople/magento-deployscripts) - Scripts used to build/package, deploy and install Magento projects.
 
 ## Continuous Integration
 * [EcomDev MageCI](https://github.com/EcomDev/MageCI) - A set of tools to help set up a proper environment for testing magento.
@@ -118,6 +120,7 @@ Please see [CONTRIBUTING](https://github.com/sunel/awesome-magento/blob/master/C
 ## Vagrant Files
 * [Magento Vagrant Puppet](https://github.com/cmuench/Magento-Vagrant-Puppet) - A Vagrantfile and some puppet scripts for an installation of a magento shop.
 * [Magento Vagrant Puppet Nginx](https://github.com/cmuench/Magento-Vagrant-Puppet-Nginx) - Installs magento and a nginx server.
+* [Jasonevans1 Vagrant](https://github.com/jasonevans1/vagrant-magento) - Another Vagrant project for Magento
 
 
 ## Community Codebases
