@@ -16,11 +16,13 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Module Manager](#module-manager) 
 - [Themes](#themes)
   - [Magento 1.x](#magento-1x-theme)
+- [Security](#security)
 - [Sessions](#sessions) 
 - [Caching](#caching)
   - [Full Page Caching](#full-page-caching)
 - [Htaccess](#htaccess)
 - [MySQL](#mysql)
+- [Utils](#utils)
 - [Deployments](#deployments)
 - [Continuous Integration](#continuous-integration)
 - [Composer Integration](#composer-integration)
@@ -61,11 +63,16 @@ Please see [CONTRIBUTING](https://github.com/sunel/awesome-magento/blob/master/C
 
 ## Themes
 #### Magento 1.x theme
-  * [Magento Foundation](https://github.com/nandroid/MagentoFoundation) - Foundation 3 Framework for Magento.
-  * [Magento Bootstrap](https://github.com/webcomm/magento-boilerplate) - Bootstrap 3.1 Magento Boilerplate Template.
-  * [Magento Bootstrap](https://github.com/cvaldemar/magento-bootstrap) - Another Bootstrap based Magento Template.
-  * [Magento Boilerplate](https://github.com/zeljkoprsa/Magento-Boilerplate) - Magento Theme Package based on HTML5 Bolierplate.
-  * [Magento Admin Theme](https://github.com/jreinke/magento-admin-theme) - Magento Admin a facelift.
+  * [Nandroid Foundation](https://github.com/nandroid/MagentoFoundation) - Foundation 3 Framework for Magento.
+  * [Webcomm Bootstrap](https://github.com/webcomm/magento-boilerplate) - Bootstrap 3.1 Magento Boilerplate Template.
+  * [Cvaldemar Bootstrap](https://github.com/cvaldemar/magento-bootstrap) - Another Bootstrap based Magento Template.
+  * [Pendabl Bootstrap](https://github.com/pendabl/bootstrapped) - Another Bootstrap based Magento Template.
+  * [Zeljkoprsa Boilerplate](https://github.com/zeljkoprsa/Magento-Boilerplate) - Magento Theme Package based on HTML5 Bolierplate.
+  * [Gpmd Responsive Theme](https://github.com/gpmd/magento-responsive-theme) - Simple responsive (fluid) Magento theme.
+  * [Jreinke Admin Theme](https://github.com/jreinke/magento-admin-theme) - Magento Admin a facelift.
+
+## Security
+* [MageFirewall](https://github.com/paimpozhil/MageFirewall) - Magento Firewall for securing your e-commerce system.
 
 ## Sessions
 * [Cm RedisSession](https://github.com/colinmollenhour/Cm_RedisSession) - Redis-based session handler for Magento with optimistic locking.
@@ -80,12 +87,16 @@ Please see [CONTRIBUTING](https://github.com/sunel/awesome-magento/blob/master/C
 ### Full Page Caching
   * [Nexcess Turpentine](https://github.com/nexcess/magento-turpentine) - Cache extension for Magento that works with Varnish.
   * [Betabrand Varnish](https://github.com/huguesalary/Magento-Varnish) - Another Cache extension for Magento that works with Varnish.
+  * [Lesti Fpc](https://github.com/GordonLesti/Lesti_Fpc) - Simple Magento Fullpagecache.
 
 ## Htaccess
 * [Magento Htaccess](https://github.com/Creare/magento-htaccess) - A htaccess boilerplate for all Magento Community installations.
 
 ## MySQL
 * [Magento MySQL](https://github.com/magenx/magento-mysql) - Magento default mysql settings.
+
+## Utils
+* [Magento Utils](https://github.com/akira28/magento-utils) - A collection of snippets and scripts to simplify your life as a Magento developer.
 
 
 ## Deployments
@@ -100,6 +111,9 @@ Please see [CONTRIBUTING](https://github.com/sunel/awesome-magento/blob/master/C
 
 ## Docker Images
 * [Docker Magento](https://github.com/alexcheng1982/docker-magento) - Docker image for Magento.
+* [Docker Magento](https://github.com/kojiromike/docker-magento) - Another Docker image for Magento.
+* [Magento Nginx](https://github.com/dockerfiles/magento-nginx) - Docker Container Template for Magento with NginX and php-fpm.
+* [Docker Magento](https://github.com/paimpozhil/docker-magento) - Production ready scalable Magento setup utilizing the docker.
 
 ## Vagrant Files
 * [Magento Vagrant Puppet](https://github.com/cmuench/Magento-Vagrant-Puppet) - A Vagrantfile and some puppet scripts for an installation of a magento shop.
