@@ -20,7 +20,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Community Codebases](#community-codebases)
   - [Magento 1.x](#magento-1x-code)
   - [Magento 2.x](#magento-2x-code)
-- [Git Ignores](git-ignores)  
+- [Git Ignores](#git-ignores)  
 - [Resources](#resources)
 - [Contributing](#contributing)
 
