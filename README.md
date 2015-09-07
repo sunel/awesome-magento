@@ -13,15 +13,28 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Command Line](#command-line)
   - [Magento 1.x](#magento-1x-cli)
   - [Magento 2.x](#magento-2x-cli)
+- [Module Manager](#module-manager) 
 - [Themes](#themes)
   - [Magento 1.x](#magento-1x-theme)
+- [Sessions](#sessions) 
+- [Caching](#caching)
+  - [Full Page Caching](#full-page-caching)
+- [Htaccess](#htaccess)
+- [MySQL](#mysql)
+- [Deployments](#deployments)
 - [Continuous Integration](#continuous-integration)
 - [Composer Integration](#composer-integration)
+- [Docker Images](#docker-images)
+- [Vagrant Files](#vagrant-files)
 - [Community Codebases](#community-codebases)
   - [Magento 1.x](#magento-1x-code)
   - [Magento 2.x](#magento-2x-code)
 - [Git Ignores](#git-ignores)  
 - [Resources](#resources)
+  - [Blogs](#blogs)
+  - [Books](#books)
+  - [Creating Themes](#creating-themes)
+  - [Misc](#misc)
 - [Contributing](#contributing)
 
 
@@ -37,21 +50,60 @@ Please see [CONTRIBUTING](https://github.com/sunel/awesome-magento/blob/master/C
 ## Command Line
 #### Magento 1.x CLI
 * [Mage Run](https://github.com/netz98/n98-magerun) - Tools to work with Magento from command line.
+* [Interactive Magento Console](https://github.com/rgranadino/Interactive-Magento-Console)
 
 #### Magento 2.x CLI
 * [Mage Run](https://github.com/netz98/n98-magerun2) - Tools to work with Magento from command line.
 
+## Module Manager
+* [Modman](https://github.com/colinmollenhour/modman) - Modularize extensions using symlinks.
+* [Modgit](https://github.com/jreinke/modgit) - Shell script for Git module deployment with include/exclude filters.
+
 ## Themes
 #### Magento 1.x theme
   * [Magento Foundation](https://github.com/nandroid/MagentoFoundation) - Foundation 3 Framework for Magento.
-  * [Magento Boilerplate](https://github.com/webcomm/magento-boilerplate) - Bootstrap 3.1 Magento Boilerplate Template.
+  * [Magento Bootstrap](https://github.com/webcomm/magento-boilerplate) - Bootstrap 3.1 Magento Boilerplate Template.
+  * [Magento Bootstrap](https://github.com/cvaldemar/magento-bootstrap) - Another Bootstrap based Magento Template.
+  * [Magento Boilerplate](https://github.com/zeljkoprsa/Magento-Boilerplate) - Magento Theme Package based on HTML5 Bolierplate.
+  * [Magento Admin Theme](https://github.com/jreinke/magento-admin-theme) - Magento Admin a facelift.
 
+## Sessions
+* [Cm RedisSession](https://github.com/colinmollenhour/Cm_RedisSession) - Redis-based session handler for Magento with optimistic locking.
+
+
+## Caching
+* [Guidance Cachebuster](https://github.com/gordonknoppe/magento-cachebuster) - Automatic purging of static assets from HTTP caches.
+* [Cm_Cache_Backend_Redis](https://github.com/colinmollenhour/Cm_Cache_Backend_Redis) - A Zend_Cache backend for Redis with full support for tags.
+* [Cm_Cache_Backend_File](https://github.com/colinmollenhour/Cm_Cache_Backend_File) - Much improved replacement for Zend_Cache_Backend_File.
+* [Zend_Cache_Backend_Mongo](https://github.com/AntonStoeckl/Zend_Cache_Backend_Mongo) - Zend Framework cache backend for MongoDB.
+
+### Full Page Caching
+  * [Nexcess Turpentine](https://github.com/nexcess/magento-turpentine) - Cache extension for Magento that works with Varnish.
+  * [Betabrand Varnish](https://github.com/huguesalary/Magento-Varnish) - Another Cache extension for Magento that works with Varnish.
+
+## Htaccess
+* [Magento Htaccess](https://github.com/Creare/magento-htaccess) - A htaccess boilerplate for all Magento Community installations.
+
+## MySQL
+* [Magento MySQL](https://github.com/magenx/magento-mysql) - Magento default mysql settings.
+
+
+## Deployments
+* [Cookbook Magento](https://github.com/yevgenko/cookbook-magento) - Collection of recipes to build app stack for the Magento deployments with Chef.
+* [Chef Magento](https://github.com/inviqa/chef-magento) - Installs and Configures a Magento project with Chef.
 
 ## Continuous Integration
 * [EcomDev MageCI](https://github.com/EcomDev/MageCI) - A set of tools to help set up a proper environment for testing magento.
 
 ## Composer Integration
 * [Cotya Composer](https://github.com/Cotya/magento-composer-installer) - Composer installer for Magento modules.
+
+## Docker Images
+* [Docker Magento](https://github.com/alexcheng1982/docker-magento) - Docker image for Magento.
+
+## Vagrant Files
+* [Magento Vagrant Puppet](https://github.com/cmuench/Magento-Vagrant-Puppet) - A Vagrantfile and some puppet scripts for an installation of a magento shop.
+* [Magento Vagrant Puppet Nginx](https://github.com/cmuench/Magento-Vagrant-Puppet-Nginx) - Installs magento and a nginx server.
 
 
 ## Community Codebases
@@ -69,3 +121,35 @@ Please see [CONTRIBUTING](https://github.com/sunel/awesome-magento/blob/master/C
 
 
 ## Resources
+#### Blogs
+  * [Inchoo](http://inchoo.net/magento/)
+  * [Belvg](http://blog.belvg.com/tag/magento-certification)
+  * [Demac Media](http://www.demacmedia.com/category/magento-commerce/)
+  * [Nick Says](https://www.nicksays.co.uk/magento/)
+  * [Fabrizio Banca](http://fbrnc.net/blog/tag:Magento)
+  * [Magento Quickies](http://magento-quickies.alanstorm.com/)
+  * [Alan Storm](http://alanstorm.com/category/magento)
+
+#### Books
+  * [Magento for Developers Guide](http://www.magentocommerce.com/knowledge-base/entry/magento-for-dev-part-1-introduction-to-magento)
+  * [Magento Best Practices](http://www.nexcess.net/resources/white-papers/magento-best-practices)
+  * [Magento PHP Developer's Guide](http://magedevguide.com/)
+
+#### Creating Themes
+  * [Magento Themes from scratch](http://magento.stackexchange.com/questions/3780/theming-starting-from-scratch)
+  * [Introducing Magento Layout](http://www.smashingmagazine.com/2012/11/30/introducing-magento-layout/)
+  * [Magento local.xml Boilerplate](http://www.creare.co.uk/magento-local-xml-boilerplate)
+
+#### Become Certified
+  * [Magento Certified Developer study guide](http://magestudyguide.com/)
+  * [Moderators Kit](http://magento.com/training/catalog/moderators-kit)
+
+####  For Users / Store administrators
+  * [Magento User Guides](http://www.magentocommerce.com/resources/magento-user-guide)
+
+#### Misc
+  * [Magento Developers List](http://magehero.com/)
+  * [Magento on Stackexchange](http://magento.stackexchange.com)
+  * [Magento on Stackoverflow](http://stackoverflow.com/questions/tagged/magento)
+  * [Magento on Reddit](http://www.reddit.com/r/magento)
+  * [Magento The Right Way](https://magentotherightway.com/)
