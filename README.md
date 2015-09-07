@@ -64,6 +64,8 @@ Please see [CONTRIBUTING](https://github.com/sunel/awesome-magento/blob/master/C
 
 ## Git Ignores
 * [Magento Gitignore](https://github.com/webcomm/magento-gitignore) - .gitignore file for Magento-based projects.
+* [Magento Gitignore](https://github.com/github/gitignore/blob/master/Magento.gitignore) - Another .gitignore file for Magento-based projects.
+* [Inchoo Gitignore](http://inchoo.net/magento/programming-magento/git-ignore-gitignore-file-for-magento-project/) - Another .gitignore file for Magento-based projects by inchoo.
 
 
 ## Resources
