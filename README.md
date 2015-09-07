@@ -48,6 +48,7 @@ Please see [CONTRIBUTING](https://github.com/sunel/awesome-magento/blob/master/C
 
 ## Testing
 * [EcomDev PHPUnit](https://github.com/EcomDev/EcomDev_PHPUnit) - Magento PHPUnit Integration.
+* [MageTest BehatMage](https://github.com/MageTest/BehatMage) - Behat for Magento.
 
 ## Command Line
 #### Magento 1.x CLI
@@ -138,6 +139,7 @@ Please see [CONTRIBUTING](https://github.com/sunel/awesome-magento/blob/master/C
 
 
 ## Resources
+* [Magento-Functions](https://github.com/Aproducktion/Magento-Functions) - A Resource of Magento Functions.
 #### Blogs
   * [Inchoo](http://inchoo.net/magento/)
   * [Belvg](http://blog.belvg.com/tag/magento-certification)
