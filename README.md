@@ -150,6 +150,8 @@ Please see [CONTRIBUTING](https://github.com/sunel/awesome-magento/blob/master/C
 
 ## Resources
 * [Magento-Functions](https://github.com/Aproducktion/Magento-Functions) - A Resource of Magento Functions.
+
+
 #### Blogs
   * [Inchoo](http://inchoo.net/magento/)
   * [Belvg](http://blog.belvg.com/tag/magento-certification)
