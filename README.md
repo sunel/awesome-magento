@@ -16,6 +16,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Module Manager](#module-manager) 
 - [Themes](#themes)
   - [Magento 1.x](#magento-1x-theme)
+- [Modules](#modules) 
 - [Security](#security)
 - [Sessions](#sessions) 
 - [Caching](#caching)
@@ -73,6 +74,10 @@ Please see [CONTRIBUTING](https://github.com/sunel/awesome-magento/blob/master/C
   * [Zeljkoprsa Boilerplate](https://github.com/zeljkoprsa/Magento-Boilerplate) - Magento Theme Package based on HTML5 Bolierplate.
   * [Gpmd Responsive Theme](https://github.com/gpmd/magento-responsive-theme) - Simple responsive (fluid) Magento theme.
   * [Jreinke Admin Theme](https://github.com/jreinke/magento-admin-theme) - Magento Admin a facelift.
+
+## Modules
+#### Magento 1.x modules
+  * [VF EasyAjax](https://github.com/hws47a/VF_EasyAjax) - Send ajax requests and return a custom information from the server.
 
 ## Security
 * [MageFirewall](https://github.com/paimpozhil/MageFirewall) - Magento Firewall for securing your e-commerce system.
