@@ -79,7 +79,7 @@ Please see [CONTRIBUTING](https://github.com/sunel/awesome-magento/blob/master/C
 #### Magento 1.x modules
   * [VF EasyAjax](https://github.com/hws47a/VF_EasyAjax) - Send ajax requests and return a custom information from the server.
   * [FastIndexer](https://github.com/SchumacherFM/Magento-FastIndexer) - Makes indexing of your Magento store around x times faster!.
-  * [Strategery-Inc/Magento-InfiniteScroll](https://github.com/Strategery-Inc/Magento-InfiniteScroll)
+  * [Strategery-Inc/Magento-InfiniteScroll](https://github.com/Strategery-Inc/Magento-InfiniteScroll) - Automatically load the next page of products in Magento.
 
 ## Security
 * [MageFirewall](https://github.com/paimpozhil/MageFirewall) - Magento Firewall for securing your e-commerce system.
