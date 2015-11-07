@@ -146,6 +146,7 @@ Please see [CONTRIBUTING](https://github.com/sunel/awesome-magento/blob/master/C
 #### Magento 1.x Code
   * [Firegento](https://github.com/firegento/magento) (unofficial)
   * [OpenMage](https://github.com/OpenMage/magento-lts) (unofficial)
+  * [Bragento](https://github.com/bragento/magento-core) (unofficial)
 
 #### Magento 2.x Code 
   * [Magento](https://github.com/magento/magento2) (official)
