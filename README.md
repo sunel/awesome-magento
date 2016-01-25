@@ -81,6 +81,7 @@ Please see [CONTRIBUTING](https://github.com/sunel/awesome-magento/blob/master/C
   * [FastIndexer](https://github.com/SchumacherFM/Magento-FastIndexer) - Makes indexing of your Magento store around x times faster!.
   * [Strategery-Inc/Magento-InfiniteScroll](https://github.com/Strategery-Inc/Magento-InfiniteScroll) - Automatically load the next page of products in Magento.
   * [Switcher](https://github.com/tzyganu/Switcher) - Configurable products switcher extension that allows you to change the configurable products dropdowns to labels, colors or images.
+  * [UMC1.9](https://github.com/tzyganu/UMC1.9) - New Ultimate Module Creator for Magento 1.7 +.
 
 ## Security
 * [MageFirewall](https://github.com/paimpozhil/MageFirewall) - Magento Firewall for securing your e-commerce system.
