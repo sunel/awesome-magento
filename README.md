@@ -22,6 +22,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Caching](#caching)
   - [Full Page Caching](#full-page-caching)
 - [Htaccess](#htaccess)
+- [Robot.txt](#robot)
 - [Nginx](#nginx)
 - [MySQL](#mysql)
 - [Utils](#utils)
@@ -103,6 +104,9 @@ Please see [CONTRIBUTING](https://github.com/sunel/awesome-magento/blob/master/C
 
 ## Htaccess
 * [Magento Htaccess](https://github.com/Creare/magento-htaccess) - A htaccess boilerplate for all Magento Community installations.
+
+## Robot.txt
+* [Robot.txt](https://github.com/Creare/magento-robots) - A simple SEO robots.txt boilerplate for all Magento Community installations.
 
 ## Nginx
 * [Magento Nginx](https://github.com/magenx/nginx-config) - Default Nginx config for Magento.
