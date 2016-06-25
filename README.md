@@ -84,6 +84,7 @@ Please see [CONTRIBUTING](https://github.com/sunel/awesome-magento/blob/master/C
   * [Switcher](https://github.com/tzyganu/Switcher) - Configurable products switcher extension that allows you to change the configurable products dropdowns to labels, colors or images.
   * [UMC1.9](https://github.com/tzyganu/UMC1.9) - New Ultimate Module Creator for Magento 1.7 +.
   * [Simple Configurable Products](https://github.com/organicinternet/magento-configurable-simple) - Enhancement to Magento to allow simple product prices to be used instead of the default special-case configurable product prices.
+  * [Customer Activation](https://github.com/Vinai/customer-activation) - Magento extension which makes it impossible for a customer to log in until the account has been activated by the administrator.
 
 ## Security
 * [MageFirewall](https://github.com/paimpozhil/MageFirewall) - Magento Firewall for securing your e-commerce system.
