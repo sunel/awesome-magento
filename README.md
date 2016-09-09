@@ -190,6 +190,7 @@ Please see [CONTRIBUTING](https://github.com/sunel/awesome-magento/blob/master/C
 #### Become Certified
   * [Magento Certified Developer study guide](http://magestudyguide.com/)
   * [Moderators Kit](http://magento.com/training/catalog/moderators-kit)
+  * [Magecert](http://magecert.com/)
 
 ####  For Users / Store administrators
   * [Magento User Guides](http://www.magentocommerce.com/resources/magento-user-guide)
