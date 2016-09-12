@@ -86,6 +86,10 @@ Please see [CONTRIBUTING](https://github.com/sunel/awesome-magento/blob/master/C
   * [Simple Configurable Products](https://github.com/organicinternet/magento-configurable-simple) - Enhancement to Magento to allow simple product prices to be used instead of the default special-case configurable product prices.
   * [Customer Activation](https://github.com/Vinai/customer-activation) - Magento extension which makes it impossible for a customer to log in until the account has been activated by the administrator.
   * [Magento layered navigation](https://github.com/caciobanu/improved-magento-layered-navigation) - Improved Magento layered navigation extension.
+  * [Magento ElasticSearch](https://github.com/Smile-SA/smile-magento-elasticsearch) - Magento ElasticSearch Implementation.
+
+#### Magento 2.x modules
+  * [Magento ElasticSearch](https://github.com/Smile-SA/elasticsuite) - Magento ElasticSearch Implementation.
 
 ## Security
 * [MageFirewall](https://github.com/paimpozhil/MageFirewall) - Magento Firewall for securing your e-commerce system.
