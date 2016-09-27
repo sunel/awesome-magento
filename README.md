@@ -126,6 +126,7 @@ Please see [CONTRIBUTING](https://github.com/sunel/awesome-magento/blob/master/C
 * [PHPCS Rules](https://github.com/madedotcom/phpcs-magento-rules) - PHPCS Magento Rules
 * [Magento Tools](https://github.com/jmmastey/magento-tools) - Tools to help work with Magento.
 * [MagentoSnippets for Sublime](https://github.com/MageFront/MagentoSnippets) - Magento Front End Snippets, plugin for Sublime Text.
+* [Magento Bulk](https://github.com/bippo/magento-bulk) - Bulk Import/Export helper scripts and CLI utilities for Magento Commerce.
 
 ## Deployments
 * [Cookbook Magento](https://github.com/yevgenko/cookbook-magento) - Collection of recipes to build app stack for the Magento deployments with Chef.
