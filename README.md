@@ -61,6 +61,7 @@ Please see [CONTRIBUTING](https://github.com/sunel/awesome-magento/blob/master/C
 
 #### Magento 2.x CLI
 * [Mage Run](https://github.com/netz98/n98-magerun2) - Tools to work with Magento from command line.
+* [Pestle](https://github.com/astorm/pestle) - A collection of command line scripts for Magento 2 code generation.
 
 ## Module Manager
 * [Modman](https://github.com/colinmollenhour/modman) - Modularize extensions using symlinks.
