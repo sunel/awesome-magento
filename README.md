@@ -16,6 +16,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Module Manager](#module-manager) 
 - [Themes](#themes)
   - [Magento 1.x](#magento-1x-theme)
+  - [Magento 2.x](#magento-2x-theme)
 - [Modules](#modules) 
 - [Security](#security)
 - [Sessions](#sessions) 
@@ -76,6 +77,9 @@ Please see [CONTRIBUTING](https://github.com/sunel/awesome-magento/blob/master/C
   * [Zeljkoprsa Boilerplate](https://github.com/zeljkoprsa/Magento-Boilerplate) - Magento Theme Package based on HTML5 Bolierplate.
   * [Gpmd Responsive Theme](https://github.com/gpmd/magento-responsive-theme) - Simple responsive (fluid) Magento theme.
   * [Jreinke Admin Theme](https://github.com/jreinke/magento-admin-theme) - Magento Admin a facelift.
+
+#### Magento 2.x theme
+  * [Blank Sass](https://github.com/SnowdogApps/magento2-theme-blank-sass) - SASS based version of Magento 2 Blank theme.
 
 ## Modules
 #### Magento 1.x modules
