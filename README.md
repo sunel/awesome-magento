@@ -101,6 +101,7 @@ Please see [CONTRIBUTING](https://github.com/sunel/awesome-magento/blob/master/C
 
 ## Sessions
   * [Cm RedisSession](https://github.com/colinmollenhour/Cm_RedisSession) - Redis-based session handler for Magento with optimistic locking.
+  * [Aoe_DynamoDbSession](https://github.com/AOEpeople/Aoe_DynamoDbSession) - Magento Session Handler for AWS DynamoDB
 
 ## Caching
   * [Guidance Cachebuster](https://github.com/gordonknoppe/magento-cachebuster) - Automatic purging of static assets from HTTP caches.
