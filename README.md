@@ -95,6 +95,7 @@ Please see [CONTRIBUTING](https://github.com/sunel/awesome-magento/blob/master/C
 
 #### Magento 2.x modules
   * [Magento ElasticSearch](https://github.com/Smile-SA/elasticsuite) - Magento ElasticSearch Implementation.
+  * [Blog](https://github.com/magefan/module-blog) - Magento 2 Blog extension.
 
 ## Security
   * [MageFirewall](https://github.com/paimpozhil/MageFirewall) - Magento Firewall for securing your e-commerce system.
