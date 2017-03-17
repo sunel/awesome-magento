@@ -159,6 +159,7 @@ Please see [CONTRIBUTING](https://github.com/sunel/awesome-magento/blob/master/C
   * [Magento Vagrant Puppet Nginx](https://github.com/cmuench/Magento-Vagrant-Puppet-Nginx) - Installs magento and a nginx server.
   * [Jasonevans1 Vagrant](https://github.com/jasonevans1/vagrant-magento) - Another Vagrant project for Magento
   * [Amacgregor MageVagrant](https://github.com/amacgregor/MageVagrant) - Vagrant/Chef base box for running Magento.
+  * [Magento 2 Vagrant](https://github.com/paliarush/magento2-vagrant-for-developers) - Vagrant Box for Magento 2 Developers.
 
 ## Sample Data Mirrors
   * [Sample Data Compressed](https://github.com/Vinai/compressed-magento-sample-data) - A highly compressed version of the magento 1.9 sample data and a script to create it.
