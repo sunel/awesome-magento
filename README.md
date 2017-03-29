@@ -153,6 +153,7 @@ Please see [CONTRIBUTING](https://github.com/sunel/awesome-magento/blob/master/C
   * [Docker Magento](https://github.com/kojiromike/docker-magento) - Another Docker image for Magento.
   * [Magento Nginx](https://github.com/dockerfiles/magento-nginx) - Docker Container Template for Magento with NginX and php-fpm.
   * [Docker Magento](https://github.com/paimpozhil/docker-magento) - Production ready scalable Magento setup utilizing the docker.
+  * [Docker Magento 2](https://hub.docker.com/r/rafaelcgstz/magento2/) - Focused to development process, pretty faster on the Linux.
 
 ## Vagrant Files
   * [Magento Vagrant Puppet](https://github.com/cmuench/Magento-Vagrant-Puppet) - A Vagrantfile and some puppet scripts for an installation of a magento shop.
