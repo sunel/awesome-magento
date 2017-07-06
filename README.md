@@ -92,8 +92,10 @@ Please see [CONTRIBUTING](https://github.com/sunel/awesome-magento/blob/master/C
   * [Customer Activation](https://github.com/Vinai/customer-activation) - Magento extension which makes it impossible for a customer to log in until the account has been activated by the administrator.
   * [Magento layered navigation](https://github.com/caciobanu/improved-magento-layered-navigation) - Improved Magento layered navigation extension.
   * [Magento ElasticSearch](https://github.com/Smile-SA/smile-magento-elasticsearch) - Magento ElasticSearch Implementation.
+  * [Algolia Search for Magento 1.6+](https://github.com/algolia/algoliasearch-magento) - Official Algolia implementation for Magento 1 – provides instant and typo-tolerant search, multicategory auto-complete and layered navigation (faceting).
 
 #### Magento 2.x modules
+  * [Algolia Search for Magento 2](https://github.com/algolia/algoliasearch-magento-2) - Official Algolia implementation for Magento 2 – provides instant and typo-tolerant search, multicategory auto-complete and layered navigation (faceting).
   * [Magento ElasticSearch](https://github.com/Smile-SA/elasticsuite) - Magento ElasticSearch Implementation.
   * [Blog](https://github.com/magefan/module-blog) - Magento 2 Blog extension.
 
