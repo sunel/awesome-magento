@@ -17,7 +17,9 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 - [Themes](#themes)
   - [Magento 1.x](#magento-1x-theme)
   - [Magento 2.x](#magento-2x-theme)
-- [Modules](#modules) 
+- [Modules](#modules)
+  - [Magento 1.x](#magento-1x-modules)
+  - [Magento 2.x](#magento-2x-modules)
 - [Security](#security)
 - [Sessions](#sessions) 
 - [Caching](#caching)
@@ -98,6 +100,7 @@ Please see [CONTRIBUTING](https://github.com/sunel/awesome-magento/blob/master/C
   * [Algolia Search for Magento 2](https://github.com/algolia/algoliasearch-magento-2) - Official Algolia implementation for Magento 2 – provides instant and typo-tolerant search, multicategory auto-complete and layered navigation (faceting).
   * [Magento ElasticSearch](https://github.com/Smile-SA/elasticsuite) - Magento ElasticSearch Implementation.
   * [Blog](https://github.com/magefan/module-blog) - Magento 2 Blog extension.
+  * [Elasticsuite](https://github.com/Smile-SA/elasticsuite) - Magento 2 Merchandising and search engine built on ElasticSearch.
 
 ## Security
   * [MageFirewall](https://github.com/paimpozhil/MageFirewall) - Magento Firewall for securing your e-commerce system.
