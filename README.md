@@ -61,6 +61,7 @@ Please see [CONTRIBUTING](https://github.com/sunel/awesome-magento/blob/master/C
 #### Magento 1.x CLI
   * [Mage Run](https://github.com/netz98/n98-magerun) - Tools to work with Magento from command line.
   * [Interactive Magento Console](https://github.com/rgranadino/Interactive-Magento-Console)
+  * [mage2.docker](https://github.com/aliuosio/mage2.docker) - Nginx(Pagespeed), MariaDB, PHP , Redis, Elastic Search Configurator with Magento 2 installer (updated: 19 April 2020)
 
 #### Magento 2.x CLI
   * [Mage Run](https://github.com/netz98/n98-magerun2) - Tools to work with Magento from command line.
